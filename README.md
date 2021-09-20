@@ -26,7 +26,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/><a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw4qCKBhAVEiwAkTYsPPKuJzT726xcFjh-l0nDIwJNe51d6GUk3POSp2LQWWzBrUDJUwa7gxoCAmEQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836691!e!!g!!photoshop!221441588!17534749028" target="_blank"> <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/><a style="padding-right:8px;" href="https://www.adobe.com/in/products/premiere.html?sdid=STLMM87Z&mv=search&ef_id=CjwKCAjw4qCKBhAVEiwAkTYsPK5mfu1uaSEryDeJOhOuHKw2dPCb1U_tmUni2ANr-OUpduc1Heb3QxoCEc4QAvD_BwE:G:s&s_kwcid=AL!3085!3!473191824156!e!!g!!adobe%20premiere%20pro!221167988!17525565668" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/> </a>
     
 </p>
 
@@ -66,8 +66,15 @@
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/xUDAYx/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/xUDAYx?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+## Connect with me:
+<p align="right">
+
+<!-- <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+<!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+<a href = "https://www.instagram.com/stxy_rix/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://dsc.gg/tmdsync"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
+
+</p>
+
