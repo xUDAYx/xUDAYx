@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Structured Query Language.**
 
-- 👯 I’m looking for **internships.** 
+- 👯 I’m looking for **Internships.** 
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
