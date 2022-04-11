@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[BTMS]()**
 
-- 🚌 It is a simple project for booking local bus tickets.
+- 🚌 It’s a simple project for booking local bus tickets.
 
 - 🌱 I’m currently learning **Structured Query Language.**
 
