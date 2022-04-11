@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[bus ticket management system]()**
+- 🔭 I’m currently working on **[BTMS]()**
 
 - 🚌 It is a simple project for booking local bus tickets.
 
