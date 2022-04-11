@@ -6,19 +6,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Grammie]()**
+- 🔭 I’m currently working on **[bus ticket management system]()**
 
-- 👴 Its a Help Assistance of Elderly people for their every need
+- 🚌 It is a simple project for booking local bus tickets.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Structured Query Language.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking for **internships.** 
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **jawheriuday@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and go to the gym very often.**
 
 ## 🚀 Languages and Tools:
 
