@@ -6,11 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[BTMS]()**
+- 🔭 I’m currently Training **[ML Models]()**
 
-- 🚌 It’s a simple project for booking local bus tickets.
-
-- 🌱 I’m currently learning **Structured Query Language.**
+- 🤖 I’m currently learning **AI & ML.**
 
 - 👯 I’m looking for **Internships.** 
 
