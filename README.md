@@ -30,9 +30,9 @@
 
 ### Backend
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-  <img src="https://drive.google.com/file/d/17AvFmCpAAceETZuehPcO9gyjq_Q9f_BI/view?usp=sharing" />
+  <img src="https://github.com/xUDAYx/uber_fare/blob/c33c7168c0cecdd9b0f6ab3c71b88b120357cfeb/python.png" />
   &nbsp;
-  <img src="https://drive.google.com/file/d/1bRUaHMrL6sM9LxgSXvMCMo2Gf0M6xcYc/view?usp=sharing" />
+  <img src="https://github.com/xUDAYx/uber_fare/blob/c33c7168c0cecdd9b0f6ab3c71b88b120357cfeb/php.png" />
   &nbsp;
   <img src="https://github.com/louisescher/louisescher/assets/66965600/2e17e635-eac3-4348-be31-c4613579d218" />
 </div>
