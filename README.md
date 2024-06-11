@@ -1,6 +1,6 @@
-<h1 align="center">Hello World. I'm Louis.</h1>
+<h1 align="center">Hello World. I'm Uday.</h1>
 <div align="center" style="display: flex; flex-direction: row;">
-  <a href="https://louisescher.dev" target="_blank">
+  <a href="https://xudayx.github.io/Portfolio/" target="_blank">
     <img src="https://github.com/louisescher/louisescher/assets/66965600/2413672c-d737-4986-a76e-bfd6c229097f" />
   </a>
   &nbsp;
@@ -14,7 +14,7 @@
 </div>
 <br />
 <div align="center">
-  🔭 I'm currently a student and run my own software development company.
+  🔭 I'm a graduate and solopreneur runing my own SaaS.
 </div>
 
 <br />
@@ -30,19 +30,15 @@
 
 ### Backend
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-  <img src="https://github.com/louisescher/louisescher/assets/66965600/132868a4-75a6-4eaa-8079-45cfa3a45a3e" />
+  <img src="https://drive.google.com/file/d/17AvFmCpAAceETZuehPcO9gyjq_Q9f_BI/view?usp=sharing" />
   &nbsp;
-  <img src="https://github.com/louisescher/louisescher/assets/66965600/206afbfb-fd93-4db3-869c-8d969139ce0d" />
+  <img src="https://drive.google.com/file/d/1bRUaHMrL6sM9LxgSXvMCMo2Gf0M6xcYc/view?usp=sharing" />
   &nbsp;
-  <img src="https://github.com/louisescher/louisescher/assets/66965600/c778b9e8-5cb3-4009-ad8a-19691aa8c2f6" />
+  <img src="https://github.com/louisescher/louisescher/assets/66965600/2e17e635-eac3-4348-be31-c4613579d218" />
 </div>
 
 ### Frontend
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-  <img src="https://github.com/louisescher/louisescher/assets/66965600/aac898e6-d86b-4837-93b1-5317dfc30961" />
-  &nbsp;
-  <img src="https://github.com/louisescher/louisescher/assets/66965600/47c5f8bb-83d9-4509-a99f-ce99eb35c48f" />
-  &nbsp;
   <img src="https://github.com/louisescher/louisescher/assets/66965600/2c8b425c-28ff-4a9b-8e6d-c1cb97c91b96" />
   &nbsp;
   <img src="https://github.com/louisescher/louisescher/assets/66965600/8a3fcfdb-b891-4b08-8683-fdb223535f3e" />
@@ -54,8 +50,6 @@
 
 ### Databases
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-  <img src="https://github.com/louisescher/louisescher/assets/66965600/261a940c-60d9-41d7-99e3-214aa6c71468" />
-  &nbsp;
   <img src="https://github.com/louisescher/louisescher/assets/66965600/092c6f54-4ff2-4333-b72c-802cfbdc1b36" />
   &nbsp;
   <img src="https://github.com/louisescher/louisescher/assets/66965600/cb7f5b81-98fb-42ed-92aa-8f8c07fa90f6" />
@@ -64,8 +58,6 @@
 ### JavaScript Runtimes
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <img src="https://github.com/louisescher/louisescher/assets/66965600/2e17e635-eac3-4348-be31-c4613579d218" />
-  &nbsp;
-  <img src="https://github.com/louisescher/louisescher/assets/66965600/17431100-8d33-434a-8e4b-431f72beed60" />
   &nbsp;
   <img src="https://github.com/louisescher/louisescher/assets/66965600/9d8ca07f-45b7-47f2-abba-480721ff308c" />
 </div>
