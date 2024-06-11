@@ -1,15 +1,11 @@
 <h1 align="center">Hello World. I'm Uday.</h1>
 <div align="center" style="display: flex; flex-direction: row;">
   <a href="https://xudayx.github.io/Portfolio/" target="_blank">
-    <img src="https://github.com/louisescher/louisescher/assets/66965600/2413672c-d737-4986-a76e-bfd6c229097f" />
+    <img src="https://github.com/xUDAYx/uber_fare/blob/6ad4121a2529c879a9674d13cef7c6f54ba949be/website.png" />
   </a>
   &nbsp;
-  <a href="https://patreon.com/louis_escher" target="_blank">
-    <img src="https://github.com/louisescher/louisescher/assets/66965600/3f7a8ce2-55f4-4a73-9a0e-2b3ffc74402b" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/louis_escher" target="_blank">
-    <img src="https://github.com/louisescher/louisescher/assets/66965600/7bd56d0b-0278-47e8-8beb-929cb9217c50" />
+  <a href="https://linkedin.com/in/uday-jawheri/" target="_blank">
+    <img src="https://github.com/xUDAYx/uber_fare/blob/6ad4121a2529c879a9674d13cef7c6f54ba949be/linkdin.png" />
   </a>
 </div>
 <br />
