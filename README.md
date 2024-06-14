@@ -15,7 +15,7 @@
 
 <br />
 <br />
-<a href="https://github.com/louisescher/at-scii">
+<a href="https://portfolio-six-neon-97.vercel.app/portfolio/ascii-effect">
   <img style="width: 100%; height: auto;" src="https://github.com/louisescher/louisescher/assets/66965600/da62f94d-3e38-479c-9a72-30fcd88a0544" />
 </a>
 <br />
