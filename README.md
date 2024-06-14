@@ -1,6 +1,6 @@
 <h1 align="center">Hello World. I'm Uday.</h1>
 <div align="center" style="display: flex; flex-direction: row;">
-  <a href="https://xudayx.github.io/Portfolio/" target="_blank">
+  <a href="https://portfolio-six-neon-97.vercel.app/" target="_blank">
     <img src="https://github.com/xUDAYx/uber_fare/blob/6ad4121a2529c879a9674d13cef7c6f54ba949be/website.png" />
   </a>
   &nbsp;
